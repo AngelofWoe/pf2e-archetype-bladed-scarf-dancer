@@ -1,17 +1,12 @@
-2024/06/04-02:29:49.359 11c8c Log #19: 0 ops saved to Table #33 OK
-2024/06/04-02:29:49.360 11c8c Archiving C:\Users\jaiao\AppData\Local\FoundryVTT\Data\modules\pf2e-archetype-bladed-scarf-dancer\packs\bladed-scarf-dancer\bladed-scarf-dancer-journal/000019.log: OK
-2024/06/04-02:29:49.360 11c8c Log #21: 0 ops saved to Table #34 OK
-2024/06/04-02:29:49.360 11c8c Archiving C:\Users\jaiao\AppData\Local\FoundryVTT\Data\modules\pf2e-archetype-bladed-scarf-dancer\packs\bladed-scarf-dancer\bladed-scarf-dancer-journal/000021.log: OK
-2024/06/04-02:29:49.367 11c8c Log #23: 1 ops saved to Table #35 OK
-2024/06/04-02:29:49.368 11c8c Archiving C:\Users\jaiao\AppData\Local\FoundryVTT\Data\modules\pf2e-archetype-bladed-scarf-dancer\packs\bladed-scarf-dancer\bladed-scarf-dancer-journal/000023.log: OK
-2024/06/04-02:29:49.368 11c8c Log #24: 0 ops saved to Table #36 OK
-2024/06/04-02:29:49.368 11c8c Archiving C:\Users\jaiao\AppData\Local\FoundryVTT\Data\modules\pf2e-archetype-bladed-scarf-dancer\packs\bladed-scarf-dancer\bladed-scarf-dancer-journal/000024.log: OK
-2024/06/04-02:29:49.369 11c8c Log #32: 0 ops saved to Table #37 OK
-2024/06/04-02:29:49.369 11c8c Archiving C:\Users\jaiao\AppData\Local\FoundryVTT\Data\modules\pf2e-archetype-bladed-scarf-dancer\packs\bladed-scarf-dancer\bladed-scarf-dancer-journal/000032.log: OK
-2024/06/04-02:29:49.369 11c8c Table #25: 57 entries OK
-2024/06/04-02:29:49.369 11c8c Table #35: 1 entries OK
-2024/06/04-02:29:49.372 11c8c Archiving C:\Users\jaiao\AppData\Local\FoundryVTT\Data\modules\pf2e-archetype-bladed-scarf-dancer\packs\bladed-scarf-dancer\bladed-scarf-dancer-journal/MANIFEST-000018: OK
-2024/06/04-02:29:49.373 11c8c Archiving C:\Users\jaiao\AppData\Local\FoundryVTT\Data\modules\pf2e-archetype-bladed-scarf-dancer\packs\bladed-scarf-dancer\bladed-scarf-dancer-journal/MANIFEST-000020: OK
-2024/06/04-02:29:49.373 11c8c Archiving C:\Users\jaiao\AppData\Local\FoundryVTT\Data\modules\pf2e-archetype-bladed-scarf-dancer\packs\bladed-scarf-dancer\bladed-scarf-dancer-journal/MANIFEST-000022: OK
-2024/06/04-02:29:49.373 11c8c Archiving C:\Users\jaiao\AppData\Local\FoundryVTT\Data\modules\pf2e-archetype-bladed-scarf-dancer\packs\bladed-scarf-dancer\bladed-scarf-dancer-journal/MANIFEST-000030: OK
-2024/06/04-02:29:49.378 11c8c **** Repaired leveldb C:\Users\jaiao\AppData\Local\FoundryVTT\Data\modules\pf2e-archetype-bladed-scarf-dancer\packs\bladed-scarf-dancer\bladed-scarf-dancer-journal; recovered 2 files; 38003 bytes. Some data may have been lost. ****
+2024/06/04-02:29:49.386 11c8c Delete type=3 #1
+2024/06/04-02:31:16.057 14464 Level-0 table #41: started
+2024/06/04-02:31:16.057 14464 Level-0 table #41: 0 bytes OK
+2024/06/04-02:31:16.063 14464 Delete type=0 #39
+2024/06/04-02:31:16.070 14464 Manual compaction at level-0 from '!journal!11b5ru914ZCGHI0E' @ 72057594037927935 : 1 .. '!journal.pages!11b5ru914ZCGHI0E.gTTooXw6ZHPcM3bq' @ 0 : 0; will stop at '!journal!11b5ru914ZCGHI0E' @ 1 : 1
+2024/06/04-02:31:16.070 14464 Compacting 2@0 + 0@1 files
+2024/06/04-02:31:16.081 14464 Generated table #42@0: 2 keys, 3799 bytes
+2024/06/04-02:31:16.081 14464 Compacted 2@0 + 0@1 files => 3799 bytes
+2024/06/04-02:31:16.086 14464 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/06/04-02:31:16.086 14464 Delete type=2 #25
+2024/06/04-02:31:16.087 14464 Delete type=2 #35
+2024/06/04-02:31:16.087 14464 Manual compaction at level-0 from '!journal!11b5ru914ZCGHI0E' @ 1 : 1 .. '!journal.pages!11b5ru914ZCGHI0E.gTTooXw6ZHPcM3bq' @ 0 : 0; will stop at (end)
