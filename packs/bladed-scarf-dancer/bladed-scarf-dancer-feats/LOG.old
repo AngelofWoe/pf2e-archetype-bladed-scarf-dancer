@@ -1,3 +1,21 @@
-2024/06/04-00:52:22.237 6a7c Recovering log #19
-2024/06/04-00:52:22.245 6a7c Delete type=0 #19
-2024/06/04-00:52:22.245 6a7c Delete type=3 #18
+2024/06/04-02:29:49.317 18b80 Log #19: 0 ops saved to Table #39 OK
+2024/06/04-02:29:49.317 18b80 Archiving C:\Users\jaiao\AppData\Local\FoundryVTT\Data\modules\pf2e-archetype-bladed-scarf-dancer\packs\bladed-scarf-dancer\bladed-scarf-dancer-feats/000019.log: OK
+2024/06/04-02:29:49.325 18b80 Log #21: 6 ops saved to Table #40 OK
+2024/06/04-02:29:49.326 18b80 Archiving C:\Users\jaiao\AppData\Local\FoundryVTT\Data\modules\pf2e-archetype-bladed-scarf-dancer\packs\bladed-scarf-dancer\bladed-scarf-dancer-feats/000021.log: OK
+2024/06/04-02:29:49.333 18b80 Log #24: 2 ops saved to Table #41 OK
+2024/06/04-02:29:49.334 18b80 Archiving C:\Users\jaiao\AppData\Local\FoundryVTT\Data\modules\pf2e-archetype-bladed-scarf-dancer\packs\bladed-scarf-dancer\bladed-scarf-dancer-feats/000024.log: OK
+2024/06/04-02:29:49.334 18b80 Log #25: 0 ops saved to Table #42 OK
+2024/06/04-02:29:49.334 18b80 Archiving C:\Users\jaiao\AppData\Local\FoundryVTT\Data\modules\pf2e-archetype-bladed-scarf-dancer\packs\bladed-scarf-dancer\bladed-scarf-dancer-feats/000025.log: OK
+2024/06/04-02:29:49.335 18b80 Log #36: 0 ops saved to Table #43 OK
+2024/06/04-02:29:49.335 18b80 Archiving C:\Users\jaiao\AppData\Local\FoundryVTT\Data\modules\pf2e-archetype-bladed-scarf-dancer\packs\bladed-scarf-dancer\bladed-scarf-dancer-feats/000036.log: OK
+2024/06/04-02:29:49.335 18b80 Table #17: 37 entries OK
+2024/06/04-02:29:49.335 18b80 Table #23: 6 entries OK
+2024/06/04-02:29:49.336 18b80 Table #28: 21 entries OK
+2024/06/04-02:29:49.336 18b80 Table #38: 21 entries OK
+2024/06/04-02:29:49.336 18b80 Table #40: 6 entries OK
+2024/06/04-02:29:49.336 18b80 Table #41: 2 entries OK
+2024/06/04-02:29:49.339 18b80 Archiving C:\Users\jaiao\AppData\Local\FoundryVTT\Data\modules\pf2e-archetype-bladed-scarf-dancer\packs\bladed-scarf-dancer\bladed-scarf-dancer-feats/MANIFEST-000018: OK
+2024/06/04-02:29:49.340 18b80 Archiving C:\Users\jaiao\AppData\Local\FoundryVTT\Data\modules\pf2e-archetype-bladed-scarf-dancer\packs\bladed-scarf-dancer\bladed-scarf-dancer-feats/MANIFEST-000020: OK
+2024/06/04-02:29:49.340 18b80 Archiving C:\Users\jaiao\AppData\Local\FoundryVTT\Data\modules\pf2e-archetype-bladed-scarf-dancer\packs\bladed-scarf-dancer\bladed-scarf-dancer-feats/MANIFEST-000022: OK
+2024/06/04-02:29:49.340 18b80 Archiving C:\Users\jaiao\AppData\Local\FoundryVTT\Data\modules\pf2e-archetype-bladed-scarf-dancer\packs\bladed-scarf-dancer\bladed-scarf-dancer-feats/MANIFEST-000034: OK
+2024/06/04-02:29:49.345 18b80 **** Repaired leveldb C:\Users\jaiao\AppData\Local\FoundryVTT\Data\modules\pf2e-archetype-bladed-scarf-dancer\packs\bladed-scarf-dancer\bladed-scarf-dancer-feats; recovered 6 files; 39333 bytes. Some data may have been lost. ****
