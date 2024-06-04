@@ -36,21 +36,10 @@
         "ASSISTANT": "OWNER"
       },
       "system": "pf2e"
-    },
-    {
-      "name": "bladed-scarf-dancer-macros",
-      "label": "Bladed Scarf Dancer Macros",
-      "path": "packs/bladed-scarf-dancer/bladed-scarf-dancer-macros",
-      "type": "Macro",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "system": "pf2e"
     }
   ],
-  "manifest": "https://github.com/AngelofWoe/pf2e-archetype-bladed-scarf-dancer/main/module.json",
-  "download": "https://github.com/AngelofWoe/pf2e-archetype-bladed-scarf-dancermain/pf2e-archetype-bladed-scarf-dancer.zip",
+  "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
+  "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip",
   "relationships": {
     "systems": [
       {
