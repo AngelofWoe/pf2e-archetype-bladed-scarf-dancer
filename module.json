@@ -1,0 +1,62 @@
+{
+  "id": "pf2e-archetype-bladed-scarf-dancer",
+  "title": "PF2e Archetype - Bladed Scarf Dancer",
+  "description": "A module to add my Bladed Scarf Dancer Archetype to PF2e",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Angel of Woe",
+      "url": "https://www.github.com/angelofwoe",
+      "discord": "angelofwoe"
+    }
+  ],
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10.315"
+  },
+  "packs": [
+    {
+      "name": "bladed-scarf-dancer-feats",
+      "label": "Bladed Scarf Dancer Feats",
+      "path": "packs/bladed-scarf-dancer/bladed-scarf-dancer-feats",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "bladed-scarf-dancer-journal",
+      "label": "Bladed Scarf Dancer Journal",
+      "path": "packs/bladed-scarf-dancer/bladed-scarf-dancer-journal",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
+    },
+    {
+      "name": "bladed-scarf-dancer-macros",
+      "label": "Bladed Scarf Dancer Macros",
+      "path": "packs/bladed-scarf-dancer/bladed-scarf-dancer-macros",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
+    }
+  ],
+  "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
+  "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip",
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system"
+      }
+    ]
+  }
+}
