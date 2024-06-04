@@ -49,8 +49,8 @@
       "system": "pf2e"
     }
   ],
-  "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
-  "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip",
+  "manifest": "https://github.com/AngelofWoe/pf2e-archetype-bladed-scarf-dancer/main/module.json",
+  "download": "https://github.com/AngelofWoe/pf2e-archetype-bladed-scarf-dancermain/pf2e-archetype-bladed-scarf-dancer.zip",
   "relationships": {
     "systems": [
       {
